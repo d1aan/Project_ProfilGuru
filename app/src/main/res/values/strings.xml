@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Project_ProfilGuru</string>
+    <string name="profil_guru">PROFIL GURU</string>
+    <string name="smk_negeri_1_sayung">SMK NEGERI 1 SAYUNG</string>
+    <string name="ttl_demak_16_agustus">TTL :Demak, 16 Agustus</string>
+    <string name="alamat_candisari_rt01_rw02">Alamat :Candisari RT01/RW02</string>
+    <string name="mata_pelajaran_bahasa_inggris">Mata Pelajaran :Bahasa Inggris</string>
+    <string name="nip_1978081620060410112">NIP :1978081620060410112</string>
+    <string name="nama_munif_spd_m_pd">Nama :Munif,SPD,M.PD</string>
+    <string name="profil_siswa">PROFIL SISWA</string>
+    <string name="smknegeri1sayung">SMK NEGERI 1 SAYUNG</string>
+    <string name="nama_dian_pratiwi">Nama :Dian Pratiwi</string>
+    <string name="kelas_xi_pplg_2">Kelas :XI PPLG 2</string>
+    <string name="alamat_lengkong_rt01_rw07">Alamat :Lengkong RT01/RW07</string>
+    <string name="nis_2233283">NIS :2233283</string>
+    <string name="ttl_demak_03_januari_2023">TTL :Demak,03 Januari 2023</string>
+    <string name="project_profil_guru">PROJECT PROFIL GURU</string>
+    <string name="smknegeri1_sayung">SMK NEGERI 1 SAYUNG</string>
+    <string name="nama_dianpratiwi">Nama : Dian Pratiwi</string>
+    <string name="no_08">No :08</string>
+    <string name="kelasxipplg2">Kelas :XI PPLG 2</string>
+    <string name="siswa">SISWA</string>
+    <string name="guru">GURU</string>
+    <string name="button_1">Button 1</string>
+</resources>
